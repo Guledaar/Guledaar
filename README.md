@@ -1,10 +1,4 @@
-- 👋 Hi, I’m Guled Abdullahi
-- 👀 I’m interested in data related topics 
-- 🌱 I’m currently learning Aicore data engineering BootCamp
-- 💞️ I’m looking to collaborate on data engineering projects 
-- 📫 How to reach me https://www.linkedin.com/in/guledabdullahi/
-
-<!---
-Guledaar/Guledaar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am an enthusiastic and analytical Mathematics with Computing graduate,
+seeking a challenging role in a data-related field. I am eager to leverage my
+skills in data engineering, problem-solving, and analytics to contribute to
+innovative solutions.
