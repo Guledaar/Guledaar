@@ -1,36 +1,36 @@
 # 👋 Hi, I'm Guled Abdullahi  
 
-I'm a **Health Data Science MSc student** with a strong background in **mathematics, computing, and data engineering**. My interests include **forecasting, discrete event simulation, machine learning development, deep learning in healthcare, and data security**.  
+I’m a **Health Data Science MSc student** with a strong foundation in **mathematics, computing, and data engineering**. My interests include **forecasting, discrete event simulation, machine learning, deep learning in healthcare, genomics, and data security**.  
 
 ## 🔬 Current Focus  
-- 📊 **Forecasting & Time Series Analysis**: Applying models like ARIMA and Prophet to healthcare data.  
-- ⚙️ **Discrete Event Simulation (DES)**: Recreating hospital ward models for research.  
-- 🏥 **Health Data Science**: Exploring data-driven solutions for healthcare challenges.  
-- 🤖 **Machine Learning Development**: Building and refining ML models for real-world applications.  
-- 🧠 **Deep Learning in Healthcare**: Exploring neural networks for medical imaging, predictive modeling, and patient risk stratification.  
-- 🛠️ **Data Engineering & Security**: Working with **Azure Databricks, Cosmos DB**, and **Python**.  
+- 📊 **Forecasting & Time Series Analysis**: Applying ARIMA, Prophet, and neural network models to healthcare data.  
+- ⚙️ **Discrete Event Simulation (DES)**: Modelling hospital operations and patient flows using **SimPy**.  
+- 🏥 **Health Data Science**: Developing data-driven solutions for clinical and operational challenges.  
+- 🤖 **Machine Learning Development**: Building predictive models using **scikit-learn** for real-world datasets.  
+- 🧬 **Genomics & Bioinformatics**: Conducting **GWAS, meta-analysis, and genetic risk scoring** using UK Biobank and clinical data.  
+- 🧠 **Deep Learning in Healthcare**: Exploring neural networks for **medical imaging, predictive modelling, and patient risk stratification**.  
+- 🛠️ **Data Engineering & Security**: Working with **Azure Databricks, Cosmos DB, SQL**, and Python pipelines.  
 
 ## 🚀 Skills & Tools  
-- **Programming**: Python (Pandas, Scikit-Learn, NumPy, Matplotlib)  
-- **Machine Learning**: Scikit-Learn, Forecasting Models (ARIMA, Prophet), ML Development  
-- **Deep Learning**: TensorFlow, PyTorch (focused on healthcare applications)  
+- **Programming**: Python (Pandas, NumPy, Matplotlib, Seaborn), R, SQL  
+- **Machine Learning**: scikit-learn, time-series forecasting (ARIMA, Prophet), predictive modelling  
+- **Deep Learning**: TensorFlow, PyTorch (healthcare applications)  
 - **Simulation**: Discrete Event Simulation (SimPy)  
-- **Data Engineering**: Azure Databricks, Azure Cosmos DB  
+- **Data Engineering & Cloud**: Azure Databricks, Azure Cosmos DB  
+- **Genomics & Bioinformatics**: GWAS, meta-analysis, genetic risk scores (GRS), UK Biobank data  
 - **Documentation & Standards**: Sphinx, Flake8, Black  
 
 ## 📂 Featured Projects  
-- **Time Series Forecasting for NHS Emergency Attendance**  
-  - Forecasting pediatric emergency department visits using machine learning models.  
-- **Fraud Detection with Machine Learning**  
-  - Exploring fraud detection in **credit cards, healthcare, e-commerce, and loans**.  
+- **Pediatric Emergency Department Forecasting**  
+  - Forecasting NHS pediatric ED attendances using statistical, machine learning, and deep learning models.  
 - **Deep Learning in Healthcare**  
-  - Investigating applications of deep learning in **medical imaging** and **patient outcome prediction**.  
+  - Applying neural networks to **medical imaging** and **patient outcome prediction**.  
 - **Data Visualization Dashboard (`vistool`)**  
-  - Developing a Python package for interactive NHS data visualization.  
+  - Python package for **interactive visualization of NHS datasets**.  
 
 ## 📫 Connect with Me  
 - 💼 **GitHub**: [Guledaar](https://github.com/Guledaar)  
 - 📧 **Email**: [Guledabdullahu23@hotmail.com](mailto:Guledabdullahu23@hotmail.com)  
 - 🔗 **LinkedIn**: [Guled Abdullahi](https://www.linkedin.com/in/guledabdullahi)  
 
-Always open to collaboration and learning! 🚀  
+Always open to collaboration and learning! 🚀
