@@ -25,7 +25,7 @@ I’m a **Health Data Science MSc student** with a strong foundation in **mathem
 
 - **🧠 Acute Stroke Unit Discrete Event Simulation (DES)**  
   - Developed a **SimPy-based DES** to model patient flow, length of stay, and discharge routing in acute stroke units.  
-  - Built an interactive **Streamlit dashboard** to test different capacity scenarios and operational strategies.  
+  - Built an interactive **Streamlit dashboard** to test different capacity scenarios and operational strategies(in progress).  
   - Supports healthcare planning by evaluating workflow performance and patient throughput without real-life disruption.  
   - 📌 Source repo: https://github.com/KaysHaydock/acute_stroke_unit_des_simulation  
 
