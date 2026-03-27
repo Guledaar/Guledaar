@@ -35,7 +35,7 @@ I’m a **Health Data Science MSc student** with a strong foundation in **mathem
 
 ## 📫 Connect with Me  
 - 💼 **GitHub**: https://github.com/Guledaar  
-- 📧 **Email**: Guledabdullahu23@hotmail.com  
+- 📧 **Email**: Guledabdullahi23@hotmail.com  
 - 🔗 **LinkedIn**: https://www.linkedin.com/in/guledabdullahi  
 
 Always open to collaboration and learning! 🚀
